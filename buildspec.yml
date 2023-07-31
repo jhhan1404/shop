@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+ install:
+   runtime-versions:
+     php: latest
+artifacts:  # 결과물 설정
+  files:
+    - '**/*'  # 모든 파일을 결과물로 생성     
+                                                                          
+ 
+                                
