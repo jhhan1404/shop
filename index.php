@@ -51,7 +51,7 @@ switch($_GET["action"]) {
 <BODY>
 <div class="page">
             <header>
-                <h1>Aurora-Seoul-CI/CD-Diablo</h1>
+                <h1>Aurora-Seoul-CI/CD</h1>
                 <nav>
                     <ul>
                         <li><a href="#">Home</a></li>
